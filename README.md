@@ -15,3 +15,5 @@ Automatically generate product information by using python openpyxl 自动根据
 2.转换字母为大写，存储好信息
 3.将处理好的信息逐个写入到“label”工作表
 4.保存工作表
+
+微信公众号：Python操作Excel高效率工作
